@@ -26,8 +26,14 @@ When you commiting your changes/solution to the github create a new branch from 
 1. Complete the registartion over https://hacktoberfest.com/
 2. Fork this repository.
 3. Clone on your local machine.
+
+HTTPS
 ```bash
 git clone https://github.com/<your github username>/HacktoberFest-2022.git
+```
+SSH
+```bash
+git@github.com:<your github username>/HacktoberFest-2022.git
 ```
 4. Navigate to the project directory.
 ```bash
