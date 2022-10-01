@@ -1,1 +1,20 @@
-# HacktoberFest-2022
+<h1 align="center"> Hacktoberfest 2022 </h1>
+<p align="center"> <img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" alt="image" /> </p>
+
+<h2 align="center"> Hello Welcome Developers! </h2>
+
+In this repo you can find 10 issues that I have opened. You can pick an issue and completed it, but there is twist. You have to select a language from the list below to complete the issue. 
+
+<h3>Language list</h3>
+<li>C</li>
+<li>C++</li>
+<li>C#</li>
+<li>Java</li>
+<li>JS</li>
+<li>Python</li>
+<br>
+<p>
+There six different folders for each language. You have to create a new folder from your name and the issue number (Ishan-01) inside your prefered language folder and inside your folder you can add your solution for your task. Good luck developers!
+</p>
+
+<strong>Please be advise: After you completed your task don't close the issue</strong>
