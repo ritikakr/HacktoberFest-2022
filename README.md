@@ -37,7 +37,7 @@ git@github.com:<your github username>/HacktoberFest-2022.git
 ```
 4. Navigate to the project directory.
 ```bash
-cd hacktoberfest-2022
+cd HacktoberFest-2022
 ```
 5. Create a new branch.
 ```bash
