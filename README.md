@@ -1,4 +1,3 @@
-<h1 align="center"> Hacktoberfest 2022 </h1>
 <p align="center"> <img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" alt="image" /> </p>
 
 <h2 align="center"> Hello Welcome Developers! </h2>
