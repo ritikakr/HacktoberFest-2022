@@ -6,7 +6,7 @@
 
 <p>Every year in October, an open source event called Hacktoberfest inspires individuals all over the world to actively engage in and contribute to open source projects that are hosted on GitHub and GitLab. By taking part in this event, you may receive a free GitHub swag pack. You must submit 4 pull requests in order to receive that awesome swag pack.</p>
 
-<p>In this repo you can find 10 issues that I have opened. You can pick an issue and completed it, but there is twist. You have to select a language from the list below to complete the issue. </p>
+<p>In this repo you can find 10 issues that I have opened. You can pick an issue and complete it, but there is twist. You have to select a language from the list below to complete the issue. </p>
 
 <h3>Language list</h3>
 <li>C</li>
