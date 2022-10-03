@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664769246 source:e:\project\hacktoberfest 2022\oddoreven\main.c
+	<stdio.h>
+	<stdlib.h>
+
